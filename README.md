@@ -1,1 +1,1 @@
-everaged the Polity V longitudinal dataset to calculate and visualize regime authority indices for selected countries through 2018. The project focused on interpreting variables like executive recruitment and political participation to assign accurate democracy-autocracy scores.
+Leveraged the Polity V longitudinal dataset to calculate and visualize regime authority indices for selected countries through 2018. The project focused on interpreting variables like executive recruitment and political participation to assign accurate democracy-autocracy scores.
